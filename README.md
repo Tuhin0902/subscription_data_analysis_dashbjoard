@@ -103,5 +103,6 @@ INTO [subscriptions].[dbo].[subscriptions_cleaned_data]
 FROM cleaned_new_table;
 ```
 
-
+Happy data analysis!
+😄
 
